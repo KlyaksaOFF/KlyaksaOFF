@@ -12,6 +12,7 @@
 **Фреймворки:**
 - Django, Django REST Framework
 - Flask
+- FastAPI
 
 **Базы данных:**
 - PostgreSQL (Django ORM)
@@ -22,7 +23,7 @@
 - Docker
 - Git (GitHub, Git CI)
 - Linux (администрирование 2+ года)
-
+  
 **Тестирование:**
 - PyTest
 
