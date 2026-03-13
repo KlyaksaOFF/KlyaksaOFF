@@ -38,7 +38,7 @@
 | Название | Описание | Стек |
 |----------|----------|------|
 | [Twitch Tournaments] | Веб-приложение для турниров с авторизацией через Twitch. Пользователи создают турниры, вступают в них, получают уведомления. | Django, Channels, OAuth2, PostgreSQL |
-| [Django Task Manager](https://github.com/KlyaksaOFF/python-project-52) | Менеджер задач с правами доступа. Кастомная модель пользователя, CRUD, валидация. | Django, ORM, PostgreSQL |
+| [Django Task Manager](https://github.com/KlyaksaOFF/Task-Manager) | Менеджер задач с правами доступа. Кастомная модель пользователя, CRUD, валидация. | Django, ORM, PostgreSQL |
 | [XZ Messenger] | Мессенджер с отправкой сообщений в реальном времени. | Django, Channels, Redis |
 | [Page Analyzer](https://github.com/KlyaksaOFF/Page-Analyzer) | Анализатор HTTP-заголовков страниц. Пользователь вводит URL, получает код ответа и заголовки. | Flask, Requests, PostgreSQL |
 | [Brain Games](https://github.com/KlyaksaOFF/Brain-Game) | Набор консольных игр для тренировки логики. | Python |
