@@ -42,7 +42,7 @@
 | [XZ Messenger] | Мессенджер с отправкой сообщений в реальном времени. | Django, Channels, Redis |
 | [Page Analyzer](https://github.com/KlyaksaOFF/Page-Analyzer) | Анализатор HTTP-заголовков страниц. Пользователь вводит URL, получает код ответа и заголовки. | Flask, Requests, PostgreSQL |
 | [Brain Games](https://github.com/KlyaksaOFF/Brain-Game) | Набор консольных игр для тренировки логики. | Python |
-| [Gendiff](https://github.com/KlyaksaOFF/python-project-50) | Утилита для сравнения JSON/YAML файлов. | Python, argparse |
+| [Gendiff](https://github.com/KlyaksaOFF/gendiff) | Утилита для сравнения JSON/YAML файлов. | Python, argparse |
 
 ---
 
