@@ -45,7 +45,7 @@
 | [Page Analyzer](https://github.com/KlyaksaOFF/Page-Analyzer) | Анализатор HTTP-заголовков страниц. Пользователь вводит URL, получает код ответа и заголовки. | Flask, Requests, PostgreSQL |
 | [Brain Games](https://github.com/KlyaksaOFF/Brain-Game) | Набор консольных игр для тренировки логики. | Python |
 | [Gendiff](https://github.com/KlyaksaOFF/gendiff) | Утилита для сравнения JSON/YAML файлов. | Python, argparse |
-| [fastapi-docker-app](https://github.com/KlyaksaOFF/fastapi-docker-app) | Простое и надежное API для управления пользователями, упакованное в Docker-контейнеры. | Проект демонстрирует навыки работы с FastAPI, PostgreSQL и автоматизацией инфраструктуры. |
+| [fastapi-docker-app](https://github.com/KlyaksaOFF/fastapi-docker-app) | Простое и надежное API для управления пользователями, упакованное в Docker-контейнеры. Проект демонстрирует навыки работы с FastAPI, PostgreSQL и автоматизацией инфраструктуры.| Docker, FastAPI, PostgreSQL, Pytest|
 ---
 
 ### 📫 Как со мной связаться
