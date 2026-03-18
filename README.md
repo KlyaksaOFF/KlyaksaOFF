@@ -2,6 +2,7 @@
 
 Я Junior Python-разработчик. Создаю веб-приложения на Django и Flask. Увлекаюсь бэкенд-разработкой, проектированием баз данных и написанием чистого кода.
 
+[Резюме](https://github.com/user-attachments/files/26077814/Lisitsyn_Alexander_Junior_Python.pdf)
 ---
 
 ### 🛠 Технологии и инструменты
