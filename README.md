@@ -1,6 +1,6 @@
 ### Привет! 👋 Меня зовут Александр Лисицын
 
-Я Junior Python-разработчик. Создаю веб-приложения на Django и Flask. Увлекаюсь бэкенд-разработкой, проектированием баз данных и написанием чистого кода.
+Junior DevOps Engineer (Python / Automation). Занимаюсь автоматизацией инфраструктуры и процессов (Ansible, Python), имею опыт разработки backend-сервисов (Django, Flask) и работы с базами данных. Пишу поддерживаемый и читаемый код.
 
 [Резюме](https://github.com/user-attachments/files/26077814/Lisitsyn_Alexander_Junior_Python.pdf)
 ---
