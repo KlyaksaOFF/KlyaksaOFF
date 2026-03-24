@@ -40,11 +40,12 @@ Junior DevOps Engineer (Python / Automation). Занимаюсь автомат�
 
 | Название | Описание | Стек |
 |----------|----------|------|
-| [Django Task Manager](https://github.com/KlyaksaOFF/Task-Manager) | Менеджер задач с правами доступа. Кастомная модель пользователя, CRUD, валидация. | Django, ORM, PostgreSQL |
-| [Page Analyzer](https://github.com/KlyaksaOFF/Page-Analyzer) | Анализатор HTTP-заголовков страниц. Пользователь вводит URL, получает код ответа и заголовки. | Flask, Requests, PostgreSQL |
-| [Brain Games](https://github.com/KlyaksaOFF/Brain-Game) | Набор консольных игр для тренировки логики. | Python |
-| [Gendiff](https://github.com/KlyaksaOFF/gendiff) | Утилита для сравнения JSON/YAML файлов. | Python, argparse |
+| [django Task Manager](https://github.com/KlyaksaOFF/Task-Manager) | Менеджер задач с правами доступа. Кастомная модель пользователя, CRUD, валидация. | Django, ORM, PostgreSQL |
+| [page Analyzer](https://github.com/KlyaksaOFF/Page-Analyzer) | Анализатор HTTP-заголовков страниц. Пользователь вводит URL, получает код ответа и заголовки. | Flask, Requests, PostgreSQL |
+| [brain Games](https://github.com/KlyaksaOFF/Brain-Game) | Набор консольных игр для тренировки логики. | Python |
+| [gendiff](https://github.com/KlyaksaOFF/gendiff) | Утилита для сравнения JSON/YAML файлов. | Python, argparse |
 | [fastapi-docker-app](https://github.com/KlyaksaOFF/fastapi-docker-app) | Простое и надежное API для управления пользователями, упакованное в Docker-контейнеры. Проект демонстрирует навыки работы с FastAPI, PostgreSQL и автоматизацией инфраструктуры.| Docker, FastAPI, PostgreSQL, Pytest|
+| [ServerOps Monitor](https://github.com/KlyaksaOFF/Telegram-ServerOps-Bot) | Telegram-бот для мониторинга серверов с использованием Ansible. Позволяет добавлять серверы, хранить данные в БД и выполнять проверки (ping, uptime) через ansible-runner. Реализована асинхронная обработка запросов и FSM для ввода данных. | Python, Aiogram, SQLAlchemy, PostgreSQL, Ansible |
 ---
 
 ### 📫 Как со мной связаться
