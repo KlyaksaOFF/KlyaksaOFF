@@ -2,7 +2,7 @@
 
 Junior DevOps Engineer (Python / Automation). Занимаюсь автоматизацией инфраструктуры и процессов (Ansible, Python), имею опыт разработки backend-сервисов (Django, FastAPI, Flask) и работы с базами данных. Пишу поддерживаемый и читаемый код.
 
-[Резюме](https://github.com/user-attachments/files/26077814/Lisitsyn_Alexander_Junior_Python.pdf)
+[Резюме](https://careered.io/resumes/6c122841-f7f3-4be2-b797-2af6e9d49f5c)
 ---
 
 ### 🛠 Технологии и инструменты
