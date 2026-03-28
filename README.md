@@ -50,7 +50,7 @@ Junior DevOps Engineer (Python / Automation). Занимаюсь автомат�
 
 ### 📫 Как со мной связаться
 
-- Telegram: [@klyaksaoff](https://t.me/klyaksaoff)
+- Telegram: [@klyaksawork](https://t.me/klyaksawork)
 - Email: klyaksaoff@gmail.com
 - GitHub: [github.com/KlyaksaOFF](https://github.com/KlyaksaOFF)
 
