@@ -1,3 +1,5 @@
+🇷🇺 Русская версия | 🇬🇧 [English version](README_EN.md)
+
 # 👋 Александр Лисицын
 
 ## Junior DevOps / Backend (Python / Automation)
