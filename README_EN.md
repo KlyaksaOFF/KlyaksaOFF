@@ -2,11 +2,11 @@
 
 # 👋 Alexander Lisitsyn
 
-## Junior DevOps / Backend Engineer (Python / Automation)
+## Junior DevOps / Backend (Python / Automation)
 
 Junior engineer with hands-on experience in user support, service administration, and backend development.
 
-I have commercial experience in technical support and user-facing roles, as well as freelance development and server administration experience.
+I have commercial experience in technical support and working with users, as well as freelance development and server administration experience.
 
 **Focus:**
 - Task automation
@@ -22,41 +22,36 @@ I have commercial experience in technical support and user-facing roles, as well
 ### 💻 Freelance Backend / Automation Developer
 **2025**
 
-- Developed Telegram bots using Python (telebot) for real-world use cases  
-- Implemented business logic and user interaction flows  
-- Integrated external APIs  
-- Maintained and improved projects after deployment  
-
----
+- Developed Telegram bots using Python (telebot) for client needs
+- Implemented business logic and user interaction flows
+- Integrated external APIs
+- Maintained and improved projects after deployment
 
 ### 🛠 Minecraft Server Administrator
 **2024 – 2025**
 
-- Configured and maintained game servers  
-- Monitored service health and resolved incidents  
-- Handled user load and ensured service stability  
-- Optimized configurations and processes  
-
----
+- Configured and maintained game servers
+- Monitored service health and resolved issues
+- Worked with users and handled нагрузку (→ load)
+- Optimized configurations and processes
 
 ### 🎧 Technical Support Specialist
 **Summer 2024**
 
-- Processed user requests and incidents  
-- Diagnosed and resolved technical issues  
-- Provided user support and консультации  
-
----
+- Processed user requests
+- Diagnosed and resolved technical issues
+- Provided user консультации (→ support/consultation)
 
 ### 🧑‍💬 Community Moderator
 **2021**
 
-- Interacted with users and maintained community standards  
-- Enforced rules and resolved conflicts  
+- Interacted with users
+- Enforced community rules
+- Resolved conflicts
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technologies & Tools
 
 ### Languages
 - Python 3
@@ -68,7 +63,7 @@ I have commercial experience in technical support and user-facing roles, as well
 - FastAPI
 
 ### Databases
-- PostgreSQL
+- PostgreSQL (SQL queries, JOINs, aggregations)
 - SQLite
 - Redis
 
@@ -76,7 +71,6 @@ I have commercial experience in technical support and user-facing roles, as well
 - Docker
 - Linux
 - Ansible
-- Nginx
 
 ### Tools
 - Git
@@ -86,7 +80,7 @@ I have commercial experience in technical support and user-facing roles, as well
 ### Testing
 - Pytest
 
-### Web Technologies
+### Web
 - REST API
 - WebSockets
 - OAuth2
@@ -97,16 +91,16 @@ I have commercial experience in technical support and user-facing roles, as well
 
 | Name | Description | Stack |
 |------|------------|------|
-| [Django Task Manager](https://github.com/KlyaksaOFF/Task-Manager) | Task manager with role-based access control, custom user model, validation, Dockerized. | Django, PostgreSQL, Docker |
-| [Page Analyzer](https://github.com/KlyaksaOFF/Page-Analyzer) | Web page analyzer that fetches HTTP status codes and headers for a given URL. | Flask, Requests, PostgreSQL |
+| [Django Task Manager](https://github.com/KlyaksaOFF/Task-Manager) | Task management system with role-based access. Custom user model, CRUD operations, validation. Containerized with Docker. | Django, PostgreSQL, Docker |
+| [Page Analyzer](https://github.com/KlyaksaOFF/Page-Analyzer) | HTTP header analyzer. Users submit a URL and receive status codes and headers. | Flask, Requests, PostgreSQL |
 | [Brain Games](https://github.com/KlyaksaOFF/Brain-Game) | CLI-based logic games. | Python |
-| [Gendiff](https://github.com/KlyaksaOFF/gendiff) | CLI tool for comparing JSON/YAML files. | Python, argparse |
-| [FastAPI Docker App](https://github.com/KlyaksaOFF/fastapi-docker-app) | REST API for user management with Docker and testing support. | FastAPI, PostgreSQL, Docker, Pytest |
-| [ServerOps Monitor](https://github.com/KlyaksaOFF/Telegram-ServerOps-Bot) | Telegram bot for server monitoring and remote command execution via Ansible. Supports async checks (ping, uptime) and DB storage. | Python, Aiogram, SQLAlchemy, PostgreSQL, Docker, Ansible |
+| [Gendiff](https://github.com/KlyaksaOFF/gendiff) | Tool for comparing JSON/YAML files. | Python, argparse |
+| [Fastapi-docker-app](https://github.com/KlyaksaOFF/fastapi-docker-app) | REST API for user management with Dockerized environment and testing support. | FastAPI, PostgreSQL, Docker, Pytest |
+| [ServerOps Monitor](https://github.com/KlyaksaOFF/Telegram-ServerOps-Bot) | Telegram bot and web interface for server monitoring and management. Implements asynchronous task execution (ping, uptime) via Ansible Runner, stores server data in PostgreSQL, and displays results using HTML templates. Uses layered architecture (routers / handlers / services), async database access, and background tasks. | Python, Aiogram, FastAPI, SQLAlchemy (async), PostgreSQL, Docker, Ansible Runner, Jinja2 |
 
 ---
 
-## 📫 Contact
+## 📫 Contacts
 
 - Telegram: [@klyaksawork](https://t.me/klyaksawork)
 - Email: [klyaksaoff@gmail.com](mailto:klyaksaoff@gmail.com)
@@ -116,13 +110,14 @@ I have commercial experience in technical support and user-facing roles, as well
 
 ## ⚡ About Me
 
-- 2+ years of Linux and server administration experience  
-- Hands-on experience with game server setup and maintenance  
-- Experience in automation and infrastructure-related tasks  
-- Able to read technical documentation in English (A2 level)  
-- Currently studying: *Clean Code*, *Hacking: The Art of Exploitation*, *Grokking Deep Learning*, *Design Patterns*  
-- Primary OS: Ubuntu  
+- 2+ years of Linux and server administration experience
+- 1 year of experience with SQL (JOINs, filtering, aggregations, backend queries)
+- Experience in infrastructure setup and backend development
+- Practical experience in automation and service monitoring
+- Able to read technical documentation in English (A2)
+- Currently studying: *Clean Code*, *Hacking on Linux*, *Grokking Deep Learning*, *Design Patterns*
+- Main OS — Ubuntu
 
 ---
 
-Open to job opportunities and collaboration 🚀
+Open to interesting opportunities and collaboration.
