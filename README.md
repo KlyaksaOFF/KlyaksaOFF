@@ -63,7 +63,7 @@ Junior инженер с практическим опытом в поддерж
 - FastAPI
 
 ### Базы данных
-- PostgreSQL
+- PostgreSQL (SQL-запросы, JOIN, агрегации)
 - SQLite
 - Redis
 
@@ -97,7 +97,7 @@ Junior инженер с практическим опытом в поддерж
 | [Brain Games](https://github.com/KlyaksaOFF/Brain-Game) | Набор консольных игр для тренировки логики. | Python |
 | [Gendiff](https://github.com/KlyaksaOFF/gendiff) | Утилита для сравнения JSON/YAML файлов. | Python, argparse |
 | [Fastapi-docker-app](https://github.com/KlyaksaOFF/fastapi-docker-app) | REST API для управления пользователями, упакованное в Docker-контейнеры с поддержкой тестирования. | FastAPI, PostgreSQL, Docker, Pytest |
-| [ServerOps Monitor](https://github.com/KlyaksaOFF/Telegram-ServerOps-Bot) | Telegram-бот для мониторинга серверов и выполнения удалённых команд через Ansible. Поддерживает асинхронные проверки (ping, uptime) и хранение данных в БД. | Python, Aiogram, SQLAlchemy, PostgreSQL, Docker, Ansible |
+| [ServerOps Monitor](https://github.com/KlyaksaOFF/Telegram-ServerOps-Bot) | Telegram-бот и веб-интерфейс для мониторинга и управления серверами. Реализована асинхронная обработка задач (ping, uptime) через Ansible Runner, хранение серверов в PostgreSQL и отображение статусов через HTML-шаблоны. Используется разделение на слои (routers / handlers / services), асинхронная работа с БД и фоновые задачи. | Python, Aiogram, FastAPI, SQLAlchemy (async), PostgreSQL, Docker, Ansible Runner, Jinja2 |
 
 ---
 
@@ -112,8 +112,9 @@ Junior инженер с практическим опытом в поддерж
 ## ⚡ О себе
 
 - 2+ года опыта администрирования Linux и серверов
-- Опыт настройки и поддержки Minecraft-серверов
-- Практика автоматизации задач и работы с инфраструктурой
+- 1 год опыта работы с SQL (JOIN, фильтрация, агрегации, запросы для backend-логики)
+- Опыт настройки и поддержки серверов и инфраструктуры
+- Практика автоматизации задач и работы с backend-сервисами
 - Читаю техническую документацию на английском языке (A2)
 - Изучаю: *Чистый код*, *Хакинг на Linux*, *Грокаем глубокое обучение*, *Паттерны ООП*
 - Основная ОС — Ubuntu
