@@ -1,4 +1,4 @@
-🇬🇧 English version | 🇷🇺 [Русская версия](README.md)
+ 🇬🇧 English version | 🇷🇺 [Русская версия](README.md)
 
 # 👋 Alexander Lisitsyn
 
@@ -116,7 +116,7 @@ I have commercial experience in technical support and working with users, as wel
 - Practical experience in automation and service monitoring
 - Able to read technical documentation in English (A2)
 - Currently studying: *Clean Code*, *Hacking on Linux*, *Grokking Deep Learning*, *Design Patterns*
-- Main OS — Ubuntu
+- Main OS - Ubuntu
 
 ---
 
