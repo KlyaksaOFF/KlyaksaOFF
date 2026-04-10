@@ -68,6 +68,9 @@ I have commercial experience in technical support and working with users, as wel
 - SQLite
 - Redis
 
+### Работа с БД / ORM
+- SQLAlchemy (async, ORM)
+
 ### DevOps / Infrastructure
 - Docker
 - Linux
@@ -115,7 +118,7 @@ I have commercial experience in technical support and working with users, as wel
 - 1 year of experience with SQL (JOINs, filtering, aggregations, backend queries)
 - Experience in infrastructure setup and backend development
 - Practical experience in automation and service monitoring
-- Able to read technical documentation in English (A2)
+- Able to read technical documentation in English (B1)
 - Currently studying: *Clean Code*, *Hacking on Linux*, *Grokking Deep Learning*, *Design Patterns*
 - Main OS - Ubuntu
 
