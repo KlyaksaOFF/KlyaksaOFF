@@ -55,6 +55,7 @@ Junior инженер с практическим опытом в поддерж
 
 ### Языки
 - Python 3
+- JavaScript (Node.js)
 
 ### Backend
 - Django
