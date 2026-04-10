@@ -55,6 +55,7 @@ I have commercial experience in technical support and working with users, as wel
 
 ### Languages
 - Python 3
+- JavaScript (Node.js)
 
 ### Backend
 - Django
