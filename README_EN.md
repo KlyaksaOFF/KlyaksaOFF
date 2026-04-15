@@ -2,7 +2,7 @@
 
 # 👋 Alexander Lisitsyn
 
-## Junior DevOps / Backend (Python / Automation)
+## Junior DevOps / Backend (Python / Node.js / Automation)
 
 Junior engineer with hands-on experience in user support, service administration, and backend development.
 
