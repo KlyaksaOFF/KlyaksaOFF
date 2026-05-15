@@ -40,6 +40,7 @@ Junior инженер с практическим опытом в поддерж
 - Linux
 - Ansible
 - Nginx
+- Postman
 
 ### Инструменты
 - Git
