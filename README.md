@@ -2,7 +2,7 @@
 
 # 👋 Александр Лисицын
 
-## Junior DevOps / Backend (Python / Node.js / Automation)
+## DevOps / Backend (Python / Node.js / Automation)
 
 Junior инженер с практическим опытом в поддержке пользователей, администрировании сервисов и разработке backend-решений.
 
